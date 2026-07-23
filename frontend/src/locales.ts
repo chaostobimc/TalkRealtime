@@ -1,0 +1,92 @@
+export const uiCopy = {
+  de: {
+    tagline: "Gespräche ohne Sprachbarrieren.",
+    hero: "Sag es in deiner Sprache.",
+    heroAccent: "Verstanden in ihrer.",
+    intro: "Ein ruhiger Raum für echte Gespräche. Jede Nachricht erscheint in der Sprache, die deine Gäste gewählt haben.",
+    yourName: "Dein Name",
+    namePlaceholder: "Wie sollen dich andere sehen?",
+    language: "Meine Sprache",
+    createRoom: "Neuen Raum erstellen",
+    joinRoom: "Du hast einen Code?",
+    roomCode: "RAUMCODE",
+    join: "Raum beitreten",
+    roomName: "Raumname",
+    roomNamePlaceholder: "z. B. Freitagsrunde",
+    translationHint: "Originale bleiben immer einen Klick entfernt.",
+    liveTranslation: "Live-Übersetzung aktiv",
+    members: "Mitglieder",
+    online: "online",
+    invite: "Einladen",
+    copied: "Link kopiert",
+    copyLink: "Link kopieren",
+    messages: "Nachrichten",
+    original: "Original anzeigen",
+    translated: "Übersetzt für dich",
+    translating: "Wird übersetzt",
+    unavailable: "Original · Übersetzung nicht verfügbar",
+    messagePlaceholder: "Nachricht schreiben…",
+    send: "Senden",
+    today: "Heute",
+    you: "Du",
+    emptyTitle: "Noch ganz still hier.",
+    emptyText: "Schreib die erste Nachricht – sie wird für alle im Raum übersetzt.",
+    connectionLost: "Verbindung wird wiederhergestellt…",
+    roomNotFound: "Diesen Raum gibt es nicht. Prüfe den Code noch einmal.",
+    required: "Bitte fülle Name und Raumname aus.",
+    shareText: "Tritt meinem Lingua Room bei",
+    people: "Personen",
+    back: "Zurück", aiPowered: "KI-gestützte Gespräche", cardFoot: "Freigabelink · kein Konto nötig", footerMade: "für menschliche Gespräche", footerRooms: "Teilbare Räume", footerOriginal: "Original immer sichtbar", createFailed: "Der Raum konnte gerade nicht erstellt werden.",
+  },
+  en: {
+    tagline: "Conversations without language barriers.",
+    hero: "Say it in your language.", heroAccent: "Understood in theirs.",
+    intro: "A calm space for real conversations. Every message appears in the language your guests selected.",
+    yourName: "Your name", namePlaceholder: "How should others see you?", language: "My language",
+    createRoom: "Create a new room", joinRoom: "Have a code?", roomCode: "ROOM CODE", join: "Join room",
+    roomName: "Room name", roomNamePlaceholder: "e.g. Friday catch-up", translationHint: "Originals are always one click away.",
+    liveTranslation: "Live translation on", members: "Members", online: "online", invite: "Invite", copied: "Link copied", copyLink: "Copy link",
+    messages: "Messages", original: "Show original", translated: "Translated for you", translating: "Translating", unavailable: "Original · translation unavailable",
+    messagePlaceholder: "Write a message…", send: "Send", today: "Today", you: "You", emptyTitle: "Quiet in here so far.",
+    emptyText: "Write the first message — it will be translated for everyone in the room.", connectionLost: "Reconnecting…",
+    roomNotFound: "This room does not exist. Check the code and try again.", required: "Please enter your name and a room name.",
+    shareText: "Join my Lingua Room", people: "people", back: "Back", aiPowered: "AI-powered conversations", cardFoot: "Shareable room link · no account needed", footerMade: "made for human conversation", footerRooms: "Shareable rooms", footerOriginal: "Original always available", createFailed: "The room could not be created right now.",
+  },
+  es: {
+    tagline: "Conversaciones sin barreras de idioma.", hero: "Dilo en tu idioma.", heroAccent: "Entendido en el suyo.",
+    intro: "Un espacio tranquilo para conversaciones reales. Cada mensaje aparece en el idioma que eligieron tus invitados.",
+    yourName: "Tu nombre", namePlaceholder: "¿Cómo quieres que te vean?", language: "Mi idioma", createRoom: "Crear una sala", joinRoom: "¿Tienes un código?", roomCode: "CÓDIGO DE SALA", join: "Entrar a la sala", roomName: "Nombre de la sala", roomNamePlaceholder: "p. ej. Encuentro del viernes", translationHint: "Los originales están a un clic.", liveTranslation: "Traducción en vivo activa", members: "Miembros", online: "en línea", invite: "Invitar", copied: "Enlace copiado", copyLink: "Copiar enlace", messages: "Mensajes", original: "Ver original", translated: "Traducido para ti", translating: "Traduciendo", unavailable: "Original · traducción no disponible", messagePlaceholder: "Escribe un mensaje…", send: "Enviar", today: "Hoy", you: "Tú", emptyTitle: "Todavía está en silencio.", emptyText: "Escribe el primer mensaje; se traducirá para todos.", connectionLost: "Reconectando…", roomNotFound: "Esta sala no existe. Revisa el código.", required: "Escribe tu nombre y un nombre de sala.", shareText: "Únete a mi Lingua Room", people: "personas", back: "Atrás", aiPowered: "Conversaciones con IA", cardFoot: "Enlace para compartir · sin cuenta", footerMade: "para conversaciones humanas", footerRooms: "Salas para compartir", footerOriginal: "Original siempre disponible", createFailed: "La sala no se pudo crear ahora.",
+  },
+  fr: {
+    tagline: "Des conversations sans barrière de langue.", hero: "Dites-le dans votre langue.", heroAccent: "Compris dans la leur.",
+    intro: "Un espace calme pour de vraies conversations. Chaque message apparaît dans la langue choisie par vos invités.",
+    yourName: "Votre nom", namePlaceholder: "Comment les autres doivent-ils vous voir ?", language: "Ma langue", createRoom: "Créer un espace", joinRoom: "Vous avez un code ?", roomCode: "CODE DE L'ESPACE", join: "Rejoindre", roomName: "Nom de l'espace", roomNamePlaceholder: "ex. Équipe du vendredi", translationHint: "Les originaux sont toujours accessibles en un clic.", liveTranslation: "Traduction en direct active", members: "Membres", online: "en ligne", invite: "Inviter", copied: "Lien copié", copyLink: "Copier le lien", messages: "Messages", original: "Voir l'original", translated: "Traduit pour vous", translating: "Traduction", unavailable: "Original · traduction indisponible", messagePlaceholder: "Écrire un message…", send: "Envoyer", today: "Aujourd'hui", you: "Vous", emptyTitle: "C'est encore calme ici.", emptyText: "Écrivez le premier message : il sera traduit pour tous.", connectionLost: "Reconnexion…", roomNotFound: "Cet espace n'existe pas. Vérifiez le code.", required: "Saisissez votre nom et un nom d'espace.", shareText: "Rejoignez mon Lingua Room", people: "personnes", back: "Retour", aiPowered: "Conversations propulsées par l'IA", cardFoot: "Lien de partage · sans compte", footerMade: "pour des conversations humaines", footerRooms: "Espaces partageables", footerOriginal: "Original toujours disponible", createFailed: "Impossible de créer l'espace maintenant.",
+  },
+  it: {
+    tagline: "Conversazioni senza barriere linguistiche.", hero: "Dillo nella tua lingua.", heroAccent: "Capito nella loro.",
+    intro: "Uno spazio calmo per conversazioni vere. Ogni messaggio appare nella lingua scelta dagli ospiti.",
+    yourName: "Il tuo nome", namePlaceholder: "Come vuoi che gli altri ti vedano?", language: "La mia lingua", createRoom: "Crea una stanza", joinRoom: "Hai un codice?", roomCode: "CODICE STANZA", join: "Entra nella stanza", roomName: "Nome della stanza", roomNamePlaceholder: "es. Incontro del venerdì", translationHint: "Gli originali sono sempre a un clic.", liveTranslation: "Traduzione live attiva", members: "Membri", online: "online", invite: "Invita", copied: "Link copiato", copyLink: "Copia link", messages: "Messaggi", original: "Mostra originale", translated: "Tradotto per te", translating: "Traduzione", unavailable: "Originale · traduzione non disponibile", messagePlaceholder: "Scrivi un messaggio…", send: "Invia", today: "Oggi", you: "Tu", emptyTitle: "Qui è ancora tutto silenzioso.", emptyText: "Scrivi il primo messaggio: verrà tradotto per tutti.", connectionLost: "Riconnessione…", roomNotFound: "Questa stanza non esiste. Controlla il codice.", required: "Inserisci il tuo nome e quello della stanza.", shareText: "Unisciti al mio Lingua Room", people: "persone", back: "Indietro", aiPowered: "Conversazioni con IA", cardFoot: "Link condivisibile · nessun account", footerMade: "per conversazioni umane", footerRooms: "Stanze condivisibili", footerOriginal: "Originale sempre disponibile", createFailed: "Impossibile creare la stanza ora.",
+  },
+  pt: {
+    tagline: "Conversas sem barreiras de idioma.", hero: "Diga na sua língua.", heroAccent: "Entendido na deles.",
+    intro: "Um espaço tranquilo para conversas reais. Cada mensagem aparece no idioma escolhido pelos seus convidados.",
+    yourName: "Seu nome", namePlaceholder: "Como os outros devem ver você?", language: "Meu idioma", createRoom: "Criar uma sala", joinRoom: "Tem um código?", roomCode: "CÓDIGO DA SALA", join: "Entrar na sala", roomName: "Nome da sala", roomNamePlaceholder: "ex. Conversa de sexta", translationHint: "Os originais estão sempre a um clique.", liveTranslation: "Tradução ao vivo ativa", members: "Membros", online: "online", invite: "Convidar", copied: "Link copiado", copyLink: "Copiar link", messages: "Mensagens", original: "Ver original", translated: "Traduzido para você", translating: "Traduzindo", unavailable: "Original · tradução indisponível", messagePlaceholder: "Escreva uma mensagem…", send: "Enviar", today: "Hoje", you: "Você", emptyTitle: "Ainda está tudo quieto por aqui.", emptyText: "Escreva a primeira mensagem — ela será traduzida para todos.", connectionLost: "Reconectando…", roomNotFound: "Esta sala não existe. Verifique o código.", required: "Informe seu nome e o nome da sala.", shareText: "Entre no meu Lingua Room", people: "pessoas", back: "Voltar", aiPowered: "Conversas com IA", cardFoot: "Link compartilhável · sem conta", footerMade: "para conversas humanas", footerRooms: "Salas compartilháveis", footerOriginal: "Original sempre disponível", createFailed: "Não foi possível criar a sala agora.",
+  },
+  tr: {
+    tagline: "Dil engelleri olmayan sohbetler.", hero: "Kendi dilinde söyle.", heroAccent: "Onların dilinde anlaşılsın.",
+    intro: "Gerçek sohbetler için sakin bir alan. Her mesaj, konuklarının seçtiği dilde görünür.",
+    yourName: "Adın", namePlaceholder: "Diğerleri seni nasıl görsün?", language: "Dilım", createRoom: "Yeni oda oluştur", joinRoom: "Kodun var mı?", roomCode: "ODA KODU", join: "Odaya katıl", roomName: "Oda adı", roomNamePlaceholder: "örn. Cuma buluşması", translationHint: "Orijinaller her zaman bir tık uzakta.", liveTranslation: "Canlı çeviri açık", members: "Üyeler", online: "çevrimiçi", invite: "Davet et", copied: "Bağlantı kopyalandı", copyLink: "Bağlantıyı kopyala", messages: "Mesajlar", original: "Orijinali göster", translated: "Senin için çevrildi", translating: "Çevriliyor", unavailable: "Orijinal · çeviri kullanılamıyor", messagePlaceholder: "Mesaj yaz…", send: "Gönder", today: "Bugün", you: "Sen", emptyTitle: "Şimdilik çok sessiz.", emptyText: "İlk mesajı yaz — odadaki herkes için çevrilecek.", connectionLost: "Yeniden bağlanıyor…", roomNotFound: "Bu oda yok. Kodu kontrol et.", required: "Lütfen adını ve oda adını gir.", shareText: "Lingua Room'uma katıl", people: "kişi", back: "Geri", aiPowered: "Yapay zekâ destekli sohbetler", cardFoot: "Paylaşılabilir oda bağlantısı · hesap gerekmez", footerMade: "insan sohbetleri için", footerRooms: "Paylaşılabilir odalar", footerOriginal: "Orijinal her zaman kullanılabilir", createFailed: "Oda şu anda oluşturulamadı.",
+  },
+  ru: {
+    tagline: "Общение без языковых барьеров.", hero: "Скажите на своём языке.", heroAccent: "Вас поймут на их.",
+    intro: "Спокойное пространство для настоящего общения. Каждое сообщение отображается на выбранном гостями языке.",
+    yourName: "Ваше имя", namePlaceholder: "Как вас будут видеть другие?", language: "Мой язык", createRoom: "Создать комнату", joinRoom: "Есть код?", roomCode: "КОД КОМНАТЫ", join: "Войти в комнату", roomName: "Название комнаты", roomNamePlaceholder: "например, Пятничная встреча", translationHint: "Оригиналы всегда доступны в один клик.", liveTranslation: "Перевод в реальном времени", members: "Участники", online: "онлайн", invite: "Пригласить", copied: "Ссылка скопирована", copyLink: "Копировать ссылку", messages: "Сообщения", original: "Показать оригинал", translated: "Переведено для вас", translating: "Переводится", unavailable: "Оригинал · перевод недоступен", messagePlaceholder: "Написать сообщение…", send: "Отправить", today: "Сегодня", you: "Вы", emptyTitle: "Здесь пока тихо.", emptyText: "Напишите первое сообщение — его переведут для всех.", connectionLost: "Повторное подключение…", roomNotFound: "Такой комнаты нет. Проверьте код.", required: "Введите имя и название комнаты.", shareText: "Присоединяйтесь к моей Lingua Room", people: "чел.", back: "Назад", aiPowered: "Общение с ИИ", cardFoot: "Ссылка для доступа · без аккаунта", footerMade: "для человеческого общения", footerRooms: "Комнаты для приглашений", footerOriginal: "Оригинал всегда доступен", createFailed: "Не удалось создать комнату.",
+  },
+} as const;
+
+export type CopyKey = keyof typeof uiCopy.en;
+export type Copy = Record<CopyKey, string>;
+
+export function dictionary(language: string): Copy {
+  return (uiCopy[language as keyof typeof uiCopy] ?? uiCopy.en) as Copy;
+}

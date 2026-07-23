@@ -1,0 +1,6 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pydantic>=2.8,<3.0
+# DeepSeek4Free is source-only (without setup.py/pyproject.toml). Install it
+# with scripts/install_deepseek4free.sh, which clones the requested repository
+# and installs its own requirements from that checkout.
